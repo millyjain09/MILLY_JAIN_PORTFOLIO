@@ -52,8 +52,8 @@ export default function About() {
         {/* RIGHT: Stats Cards */}
         <div className="grid grid-cols-2 gap-4">
           <HighlightCard number="02" label="Internships" sub="Skilligence & Geeta Univ" />
-          <HighlightCard number="200+" label="DSA Problems" sub="LeetCode & CodeChef" />
-          <HighlightCard number="8.68" label="Current CGPA" sub="B.Tech CSE" />
+          <HighlightCard number="300+" label="DSA Problems" sub="LeetCode & CodeChef" />
+          <HighlightCard number="9.01" label="Current CGPA" sub="B.Tech CSE" />
           <HighlightCard number="04" label="Major Projects" sub="MERN & GenAI" />
         </div>
       </div>
