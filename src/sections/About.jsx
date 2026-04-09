@@ -36,12 +36,12 @@ export default function About() {
           </div>
           
           <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-4">
-            I am a <strong>Computer Science Engineering</strong> student at <strong>Geeta University</strong> with a consistent academic record <strong>(CGPA: 8.68)</strong>. My passion lies at the intersection of Full-Stack Development and Artificial Intelligence.
+            I am a <strong>Computer Science Engineering</strong> student at <strong>Geeta University</strong> with a consistent academic record <strong>(CGPA: 9.01)</strong>. My passion lies at the intersection of Full-Stack Development and Artificial Intelligence.
           </p>
 
           {/* 👇 UPDATED PARAGRAPH */}
           <p className="text-gray-700 dark:text-gray-300 leading-relaxed mb-4">
-            Previously, I worked as a <strong>Generative AI Intern at Skilligence</strong>, where I designed <strong>Transformer architectures</strong> and built an AI-powered interview simulator. I also have a strong grasp of data structures, having solved <strong>200+ DSA problems</strong> on LeetCode and CodeChef.
+            Previously, I worked as a <strong>Generative AI Intern at Skilligence</strong>, where I designed <strong>Transformer architectures</strong> and built an AI-powered interview simulator. I also have a strong grasp of data structures, having solved <strong>300+ DSA problems</strong> on LeetCode and CodeChef.
           </p>
 
           <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
@@ -54,7 +54,7 @@ export default function About() {
           <HighlightCard number="02" label="Internships" sub="Skilligence & Geeta Univ" />
           <HighlightCard number="200+" label="DSA Problems" sub="LeetCode & CodeChef" />
           <HighlightCard number="8.68" label="Current CGPA" sub="B.Tech CSE" />
-          <HighlightCard number="03" label="Major Projects" sub="MERN & GenAI" />
+          <HighlightCard number="04" label="Major Projects" sub="MERN & GenAI" />
         </div>
       </div>
     </section>

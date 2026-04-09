@@ -4,6 +4,15 @@ import { Github, ExternalLink, Code2, FolderGit2 } from 'lucide-react';
 
 const majorProjects = [
   {
+    title: "AI MockMate",
+    subtitle: "AI Powered Interview Trainer",
+    description: "An immersive MERN & Python ecosystem featuring real-time GenAI voice simulations for Technical/DSA (with Monaco Editor), HR rounds, and English communication practice.Empowering career growth through data-driven AI insights.",
+    tech: ["React.js" ,"Python" , "MongoDb", "Open API"],
+    github: "https://github.com/millyjain09/NewHub",
+    live: "https://ai-mockmate-flax.vercel.app/",
+    color: "from-orange-400 to-amber-500"
+  },
+  {
     title: "Chit Chat",
     subtitle: "Real-Time Communication Platform",
     description: "A secure MERN Stack chat application featuring instantaneous messaging, WebRTC Video/Voice calling, and multi-user group chats. Supports real-time file sharing and dynamic status tracking.",
@@ -20,16 +29,8 @@ const majorProjects = [
     github: "https://github.com/millyjain09/Shopverse",
     live: "https://shopverse-pi.vercel.app/",
     color: "from-cyan-400 to-blue-500"
-  },
-  {
-    title: "NewsHub",
-    subtitle: "Smart News Aggregator",
-    description: "A responsive news application leveraging News API for real-time global headlines. Features infinite scrolling, date-based search, and category filtering for seamless UX.",
-    tech: ["React.js", "News API", "Tailwind CSS", "JavaScript"],
-    github: "https://github.com/millyjain09/NewHub",
-    live: "https://new-hub-nine.vercel.app/",
-    color: "from-orange-400 to-amber-500"
   }
+  
 ];
 
 const minorProjects = [
@@ -49,9 +50,9 @@ const minorProjects = [
     tech: ["React", "Rapid Api"]
   },
   {
-    title: "Ai MockMate",
-    desc: "AI MockMate helps students prepare for interviews using AI-driven mock interviews and instant feedback.",
-    tech: ["GenAi"]
+    title: "NewsHub",
+    desc: "A real-time platform delivering categorized live news across sports, business, and health using dynamic API integration..",
+    tech: ["React.js","News Api","JavaScript"]
   }
 ];
 
